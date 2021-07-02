@@ -46,11 +46,7 @@ This is the place where I opensource my projects and collaborate with other deve
 
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-
 [<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />][tailwind]
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
@@ -65,20 +61,22 @@ This is the place where I opensource my projects and collaborate with other deve
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+---
+
+<img align="left" alt="quanglddev's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=quanglddev&show_icons=true&hide_border=true" />
+
 [bentley]: https://www.bentley.com/en
 [website]: https://quangdluong.com
 [twitter]: https://twitter.com/quangld00
 [youtube]: https://www.youtube.com/channel/UC770oSTJqWwjzkr39tpbKdA
 [linkedin]: https://www.linkedin.com/in/quangld00/
 [vscode]: https://code.visualstudio.com/
-[html5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [tailwind]: https://tailwindcss.com/
 [js]: https://www.javascript.com/
 [ts]: https://www.typescriptlang.org/
 [react]: https://reactjs.org/
 [nodejs]: https://nodejs.org/en/
 [mongodb]: https://www.mongodb.com/
-[git]: https://git-scm.com/
 [github]: https://github.com/
 [iterm2]: https://iterm2.com/
 [py]: https://www.python.org/
