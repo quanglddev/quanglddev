@@ -2,7 +2,7 @@
 
 This is the place where I opensource my projects and collaborate with other developers
 ## I'm a Developer and Teacher!!
-- 🔭 I'm currently working at Bentley Systems as an MLOps Engineer
+- 🔭 I'm currently working at [Bentley Systems][bentley] as an MLOps Engineer
 - 🌱 I'm currently learning ML, iOS development (again), and how to become a content creator on YouTube
 - 👯 I'm looking to collaborate with those who are passionate about changing the world
 - 🥅 2021 Goals: Work enough to fund a trip for my family
@@ -56,6 +56,7 @@ This is the place where I opensource my projects and collaborate with other deve
 
 [<img align="left" alt="iTerm2" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][iterm2]
 
+[bentley]: https://www.bentley.com/en
 [website]: https://quangdluong.com
 [twitter]: https://twitter.com/quangld00
 [youtube]: https://www.youtube.com/channel/UC770oSTJqWwjzkr39tpbKdA
