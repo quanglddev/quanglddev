@@ -8,6 +8,10 @@ This is the place where I opensource my projects and collaborate with other deve
 - 🥅 2021 Goals: Work enough to fund a trip for my family
 - ⚡ Fun fact: I love playing pool, tennis, and chess
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-quanglddev.vercel.app/api/spotify)](https://open.spotify.com/user/ntm3hfkby1twhl1i7yun35gnk)
+
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
