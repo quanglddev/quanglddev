@@ -63,7 +63,7 @@ This is the place where I opensource my projects and collaborate with other deve
 
 ---
 
-<img align="left" alt="quanglddev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=quanglddev&show_icons=true&hide_border=true" />
+<img align="left" alt="quanglddev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=quanglddev&show_icons=true&hide_border=true&count_private=true />
 
 [bentley]: https://www.bentley.com/en
 [website]: https://quangdluong.com
