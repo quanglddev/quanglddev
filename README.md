@@ -68,8 +68,15 @@ This is the place where I opensource my projects and collaborate with other deve
 ---
 
 <details>
+  <summary>:zap: Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
+
+<details>
   <summary>:zap: GitHub Stats</summary>
-    <img align="left" alt="quanglddev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=quanglddev&show_icons=true&hide_border=true&count_private=true" />
+    <img align="left" alt="quanglddev's GitHub Stats" src="https://github-readme-stats-quanglddev.vercel.app/api?username=quanglddev&show_icons=true&hide_border=true&count_private=true" />
 </details>
 
 [bentley]: https://www.bentley.com/en
