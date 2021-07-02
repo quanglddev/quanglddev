@@ -56,6 +56,15 @@ This is the place where I opensource my projects and collaborate with other deve
 
 [<img align="left" alt="iTerm2" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][iterm2]
 
+<br />
+<br />
+
+---
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 [bentley]: https://www.bentley.com/en
 [website]: https://quangdluong.com
 [twitter]: https://twitter.com/quangld00
