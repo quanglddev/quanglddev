@@ -2,7 +2,7 @@
 
 This is the place where I opensource my projects and collaborate with other developers
 ## I'm a Developer and Teacher!!
-- 🔭 I'm currently working at [Bentley Systems][bentley] as an MLOps Engineer
+- 🔭 I'm worked at [Bentley Systems][bentley] as an MLOps Engineer and at Your Part-Time Controller as a Full-Stack Web Developer
 - 🌱 I'm currently learning ML, iOS development (again), and how to become a content creator on YouTube
 - 👯 I'm looking to collaborate with those who are passionate about changing the world
 - 🥅 2021 Goals: Work enough to fund a trip for my family
